@@ -9,5 +9,5 @@ Meine Analyse of  [Yelp Data Set](https://www.yelp.com/dataset/download) um die 
 ## Analyse
  1.	[Word Embeddings] representation von  review der Benutzern
  2.	Kreation von vorhersage model  um die sentiment vorherzisagen aufbauend rating und review
-	 [Long Short Term Memory Neural Network]
+	* [Long Short Term Memory Neural Network]
 
