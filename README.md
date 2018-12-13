@@ -1,9 +1,13 @@
-# Synopsis
-Our Analysis of [Yelp Data Set](https://www.yelp.com/dataset_challenge) to predict user sentiments based on their review. 
+# Zusammenfassung
+Meine Analyse of  [Yelp Data Set](https://www.yelp.com/dataset/download) um die Sentiment des Benutzers vorherzusagen  aufbauend ihres  reviews. 
 
-## [Data Cleaning](yelp_01dataCleaning.ipynb)
-1.	Lowercase
-2.	Remove numbers
-3.	Remove stop words using nltk
-4.	Porter Stemming
-5.	Create sparse matrix representation using scikit.
+## [Data Cleaning]
+1.	Daten entpacken
+2.	Daten aufteilen 
+3.	Daten tockenization
+4.	Kreation von sparse matriz für die representation von tockens
+## Analyse
+ 1.	[Word Embeddings] representation von  review der Benutzern.1
+ 2.	Kreation von vorhersage model Create models um die sentiment vorherzisagen aufbauend rating und review
+	. [Long Short Term Memory Neural Network]
+
