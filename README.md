@@ -1,7 +1,7 @@
 # Zusammenfassung
 Meine Analyse of  [Yelp Data Set](https://www.yelp.com/dataset/download) um die Sentiment des Benutzers vorherzusagen  aufbauend ihres  reviews. 
 
-## [Data Cleaning]
+## Data Cleaning
 1.	Daten entpacken
 2.	Daten aufteilen 
 3.	Daten tockenization
