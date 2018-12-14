@@ -10,6 +10,6 @@ Meine Analyse of  [Yelp Data Set](https://www.yelp.com/dataset/download) um die 
  1.	Word Embeddings representation von  review der Benutzern
  2.	Kreation von vorhersage model  um die sentiment vorherzisagen aufbauend rating und review:
 	## Long Short Term Memory Neural Network
-## packages und datensatz
+## Packages und datensatz
  Um die Alghrithmus durchzufhüren muss man erstens die packages "jsonlite" und "keras" installieren und die datensatz yelp challenge 2018 
  herunterladen
