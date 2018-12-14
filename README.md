@@ -13,3 +13,5 @@ Meine Analyse of  [Yelp Data Set](https://www.yelp.com/dataset/download) um die 
 ## Packages und datensatz
  Um die Alghrithmus durchzufhüren muss man erstens die packages "jsonlite" und "keras" installieren und die datensatz yelp challenge 2018 
  herunterladen
+### Ergebnisse
+ Die accuracy von Alghrithmus war 91.65 %
